@@ -6,7 +6,7 @@
 ## Contact information:
 **location:** Minsk, Belarus
 
-**email:** innxfect@gmail.com
+**email:** [innxfect@gmail.com]()
 
 **phon:**+375291801438
 
@@ -16,13 +16,29 @@
 
 ## Abaut me:
 
-- [x] HTML5
-- [ ] CSS
-- [ ] fdfdfdhggj
-- [ ] dfjdkfwhwje
-- [ ] dhfjhfwiuehwl
+ [x] HTML5
+
+ [ ] CSS
+
+ [ ] fdfdfdhggj
+
+ [ ] dfjdkfwhwje
+
+ [ ] dhfjhfwiuehwl
 
 
+## Aducation
+
+-[x] Yanka Kupala State University of Grodno
+- Faculty of Physical Education
+
+
+
+     in process...
+> HTML/CSS  
+>JavaScript   
+>Git/GitHub   
+>AddobePhotoshop
 
 ## Skills and Proficiency:
 
