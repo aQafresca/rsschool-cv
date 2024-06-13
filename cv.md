@@ -13,7 +13,7 @@
 **telegram:** [ill_Nino]()
 
 **GitHub:** [aQafresca](https://github.com/aqafresca)
-___
+
 ## Abaut me:
 
 - [x] HTML5
@@ -22,11 +22,11 @@ ___
 - [ ] dfjdkfwhwje
 - [ ] dhfjhfwiuehwl
 
-___
+
 
 ## Skills and Proficiency:
 
-___
+
 
 ## Code Examples:
 ``` 
@@ -36,4 +36,5 @@ console.log(
    .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0));
    ```
 
+## Languages
 
