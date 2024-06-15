@@ -15,22 +15,14 @@
 **GitHub:** [aQafresca](https://github.com/aqafresca)
 
 ## Abaut me:
+All-round developed person with a strong passion for technology. Having experience in Sport and
+Logistics domains, I’m currently focused on the study of Frontend programming (HTML, CSS, JavaScript) . I’m a proactive, detail-oriented and dedicated individual seeking to acquire and further improveskills and knowledge to provide value to successful projects implementation and gain experience of
+commercial development.
 
- [x] HTML5
+## Aducation:
 
- [ ] CSS
-
- [ ] fdfdfdhggj
-
- [ ] dfjdkfwhwje
-
- [ ] dhfjhfwiuehwl
-
-
-## Aducation
-
--[x] Yanka Kupala State University of Grodno
-- Faculty of Physical Education
+- Yanka Kupala State University of Grodno
+    - Faculty of Physical Education
 
 
 
@@ -41,6 +33,10 @@
 >AddobePhotoshop
 
 ## Skills and Proficiency:
+- HTML/CSS
+- javaScript
+- VS Code
+- AddobePhotosop
 
 
 
@@ -52,5 +48,15 @@ console.log(
    .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0));
    ```
 
-## Languages
+## Languages:
+
+ **Belarusian** Native 
+
+**Russian** Native
+
+**Ukranian** intermediate
+
+**Italian** B1 (B2 in process…)
+
+**Inglesh** A2 (B1 in process…)
 
