@@ -1,31 +1,66 @@
+![fotocv](../rsschool-cv/markcv.jpg)
+
 **_Hi, my name is_**
 
-# ==***Sergio Buiko***==
-_________________
+# ***Sergio Buiko***
+
 
 ## Contact information:
-**location:** Minsk, Belarus
-**email:** innxfect@gmail.com
-**phon:**+375291801438
-**telegram:** @ill_Nino
+**Location:** Minsk, Belarus
+
+**Email:** innxfect@gmail.com
+
+**Phon:**+375291801438
+
+**Telegram:** ill_Nino
+
 **GitHub:** [aQafresca](https://github.com/aqafresca)
-___
+
+**Discord** ill_Nino
+
 ## Abaut me:
+All-round developed person with a strong passion for technology. Having experience in Sport and
+Logistics domains, I’m currently focused on the study of Frontend programming (HTML, CSS, JavaScript) . I’m a proactive, detail-oriented and dedicated individual seeking to acquire and further improveskills and knowledge to provide value to successful projects implementation and gain experience of
+commercial development.
 
-- [x] HTML5
-- [ ] CSS
-- [ ] fdfdfdhggj
-- [ ] dfjdkfwhwje
-- [ ] dhfjhfwiuehwl
+## Aducation:
 
-___
+- Yanka Kupala State University of Grodno
+    - Faculty of Physical Education
+
+
+
+     in process...
+> HTML/CSS  
+>JavaScript   
+>Git/GitHub   
+>AddobePhotoshop
 
 ## Skills and Proficiency:
+- HTML/CSS
+- javaScript
+- VS Code
+- AddobePhotosop
 
-___
+
 
 ## Code Examples:
-123code hire
+``` 
+console.log(
+ [1, 4, 3, 0, 4, 5, 4]
+   .filter(element => !(element % 2))
+   .reduceRight((accumulator, element) => accumulator + Math.sqrt(element), 0));
+   ```
 
-___
+## Languages:
+
+ **Belarusian:** Native 
+
+**Russian:** Native
+
+**Ukranian:** intermediate
+
+**Italian:** B1 (B2 in process…)
+
+**Inglesh:** A2 (B1 in process…)
 
