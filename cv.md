@@ -1,4 +1,4 @@
-![fotocv](../rsschool-cv/files/markcv.jpg)
+![fotocv](../rsschool-cv/markcv.jpg)
 
 **_Hi, my name is_**
 
