@@ -1,18 +1,22 @@
+![fotocv](../rsschool-cv/files/markcv.jpg)
+
 **_Hi, my name is_**
 
 # ***Sergio Buiko***
 
 
 ## Contact information:
-**location:** Minsk, Belarus
+**Location:** Minsk, Belarus
 
-**email:** [innxfect@gmail.com]()
+**Email:** innxfect@gmail.com
 
-**phon:**+375291801438
+**Phon:**+375291801438
 
-**telegram:** [ill_Nino]()
+**Telegram:** ill_Nino
 
 **GitHub:** [aQafresca](https://github.com/aqafresca)
+
+**Discord** ill_Nino
 
 ## Abaut me:
 All-round developed person with a strong passion for technology. Having experience in Sport and
@@ -50,13 +54,13 @@ console.log(
 
 ## Languages:
 
- **Belarusian** Native 
+ **Belarusian:** Native 
 
-**Russian** Native
+**Russian:** Native
 
-**Ukranian** intermediate
+**Ukranian:** intermediate
 
-**Italian** B1 (B2 in process…)
+**Italian:** B1 (B2 in process…)
 
-**Inglesh** A2 (B1 in process…)
+**Inglesh:** A2 (B1 in process…)
 
