@@ -5,30 +5,154 @@
     list-style: none;
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 1em;
+}
+
+a {
+    color: beige;
+    text-decoration: none;
+}
+
+hr {
+    margin-top: 1em;
+    border: 0.5px solid rgb(75, 74, 74, 0.3);
+    width: 7em;
+}
+
 body {
     background-color: rgb(121, 118, 118);
-    padding: 3em 6em;
+    padding: 3em 8em;
     color: beige;
 }
 
 header {
     background-color: rgb(39, 39, 39);
     align-items: center;
-    /* padding-top: 2em; */
+    border-bottom: 0.5px solid rgb(75, 74, 74, 0.3);
 }
 
 header ul {
     display: flex;
     justify-content: center; 
-    padding-bottom: 2em;
+    padding-bottom: 1em;
 }
+
 header li {
-    /* border: 1px solid rgb(0, 0, 0); */
     padding: 1em;  
     cursor: pointer;
 }
 
 header li:hover {
-    color: black;
+    transform: scale(1.3);
+}
+
+main {
+    background-color: rgb(39, 39, 39);
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.left-side {
+    text-align: center;
+    padding: 0 1em;
+}
+
+.left-side-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(39, 39, 39);
+    justify-content: center;
+    margin: 2.5em 0;
+}
+
+.left-side-title h1, h3 {
+    text-align: center;
+}
+
+.summary {
+    border-bottom: 0.5px solid rgb(75, 74, 74, 0.3);
+    padding-bottom: 1em;
+}
+
+.summary p {
+    font-size: 1.1em;
+}
+
+.code {
+    border-bottom: 0.5px solid rgb(75, 74, 74, 0.3);
+    padding-bottom: 1em;
+}
+
+.code h2 {
+    margin-top: 1em;
+}
+
+.code code {
+    font-size: 1.2em;
+}
+
+.projects {
+    border-bottom: 0.5px solid rgb(75, 74, 74, 0.3);
+    padding-bottom: 1em;
+}
+
+.projects h2 {
+    margin-top: 1em;
+}
+
+.projects ul li:hover {
+    transform: scale(1.3);
+}
+
+.proficiency {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 1.5em;
+    border-bottom: 0.5px solid rgb(75, 74, 74, 0.3);
+    padding-bottom: 1em;
+}
+
+.proficiency ul {
+    text-align: left;
+    list-style: none;
+    width: 10em;
+}
+
+.proficiency .percent {
+    position: relative;
+    width: 100%;
+    height: 6px;
     background-color: rgb(212, 212, 212);
+    display: block;
+    margin-top: 0.7em;
+    margin-bottom: 0.2em;
+}
+
+.proficiency .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: rgb(75, 74, 74);
+}
+
+.hobbies-box {
+    display: flex;
+    flex-direction: column;
+    margin: 1.5em 0;
+}
+
+.hobbies-list {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
 }
