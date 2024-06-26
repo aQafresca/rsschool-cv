@@ -256,3 +256,30 @@ main {
     height: 100%;
     background-color: rgb(75, 74, 74);
 }
+
+footer {
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5em 2em;
+    border-top: 0.5px solid rgb(75, 74, 74, 0.5);
+}
+
+footer img {
+    height: 30px;
+    width: 80px;
+}
+
+footer a {
+    text-decoration: none;
+    color: beige;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer a:hover {
+    transform: scale(1.3);
+}
