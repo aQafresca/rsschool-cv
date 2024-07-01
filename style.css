@@ -128,29 +128,6 @@ main {
     padding-bottom: 1em;
 }
 
-.proficiency ul {
-    text-align: left;
-    list-style: none;
-    width: 10em;
-}
-
-.proficiency .percent {
-    position: relative;
-    width: 100%;
-    height: 6px;
-    background-color: rgb(212, 212, 212);
-    display: block;
-    margin-top: 0.7em;
-    margin-bottom: 0.2em;
-}
-
-.proficiency .percent div {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    background-color: rgb(75, 74, 74);
-}
 
 .hobbies-box {
     display: flex;
@@ -230,33 +207,22 @@ main {
 }
 
 .languages {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 2em;
+
 }
 
 .text {
-    width: 15em;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    gap: 20px;
+    padding: 5px;
+    margin-left: 100px;
 }
 
-
-.languages .percent {
-    position: relative;
-    width: 100%;
-    height: 6px;
-    background-color: rgb(212, 212, 212);
-    /* display: block; */
-    margin-top: 0.7em;
-    margin-bottom: 0.2em;
-}
-
-.languages .percent div {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    background-color: rgb(75, 74, 74);
+.text h4 {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
 }
 
 footer {
